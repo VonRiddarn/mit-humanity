@@ -3,7 +3,7 @@ Version 1.0 - March 20, 2025
 
 ## Reason for existance
 The MIT - Humanity license was created to balance the open-source freedom provided through the original MIT license with a strong commitment to user rights and ethical software practices.  
-My goal is to encourage developers to build software that not only respects the freedom of to use, moddify and share, but also the rights of those who will be using it in the end.  
+My goal is to encourage developers to build software that not only respects the freedom to use, modify and share, but also the rights of those who will be using it in the end.  
 Unlike the MIT license, this license may never be accepted into the Open Source Initiative as it potentially limit fields of endeavor.  
 
 ## The license
