@@ -1,5 +1,5 @@
 # MIT - Humanity
-Version 1.1 - March 20, 2025  
+Version 1.2 - March 20, 2025  
 
 ## Reason for existance
 The MIT - Humanity license was created to balance the open-source freedom provided through the original MIT license with a strong commitment to user rights and ethical software practices.  
@@ -37,7 +37,7 @@ If your use or distribution of the Software requires end users to create an acco
 If the use or distribution of the Software requires payment of a recurring fee:  
 * End users must be provided with a clear and direct way to cancel or unsubscribe from such fees from within the Software or service itself, without requiring interaction with customer service representatives, support teams, or similar intermediaries.
 * The method to cancel recurring fees must be clearly visible and accessible within the user interface of the Software or service.
-* If the software requires a fee to access or use and the end user is presented with a free trial period, the free trial will not automatically start a recurring fee unless the user makes a deliberate action to continue using the service (e.g., accessing their account, entering payment information) within seven (7) days after the trial period ends. Payment information entered before or during the trial period does not count. If the end user is prompted to enter their payment information after the trial period, it must be explicitly stated in simple and explicit terms that this will result in a recurring fee.
+* If the software requires a fee to access or use and the end user is presented with a free trial period, the free trial will not automatically start a recurring fee unless the user makes a deliberate action to continue using the service (e.g., accessing their account, entering payment information) within seven (7) days after the trial period ends. Payment information entered before or during the trial period does not count. If the end user is prompted to enter their payment information after the trial period, it must be explicitly stated in simple terms that this will result in a recurring fee.
 
 2.4:  
 The mechanisms required under Sections 2.2 and 2.3 must:  
